@@ -268,11 +268,17 @@ footer{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
+    .foto1{
+        grid-column: 1/4;
+    }
     .foto2{
+        grid-column: 1/2;
+    }
+    .foto3{
         grid-column: 2/4;
     }
     .foto4{
-        grid-column: 2/4;
+        grid-column: 1/4;
     }
     .foto6{
         grid-column: 2/4;
