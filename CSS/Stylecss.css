@@ -39,7 +39,9 @@ header{
     text-transform: capitalize;
     font-size: 15px;
 }
-
+.barra a:hover{
+    color: #ffc400;
+}
 /* Acá se usa 2 main dependiendo del contenido*/
 main{
     height: calc(100vh - 80px);
